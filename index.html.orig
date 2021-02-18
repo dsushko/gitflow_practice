@@ -1,7 +1,20 @@
 git task
 
 <<<<<<< HEAD
-hello alex
+hello alex hi world
+
+change 1
+
+change 2
+
+change 3
+
 =======
-hi world
->>>>>>> feature/hi-world
+hello alex
+
+change 4
+
+change 5
+
+change 6
+>>>>>>> feature/new2
