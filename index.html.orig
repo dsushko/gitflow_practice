@@ -1,0 +1,7 @@
+git task
+
+<<<<<<< HEAD
+hello alex
+=======
+hi world
+>>>>>>> feature/hi-world
